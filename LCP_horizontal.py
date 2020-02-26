@@ -1,11 +1,9 @@
-#horizontal greedy approach
-#this works
+
 #LCP(string)= LCP(LCP(string1, string2), string3)
 
 def LCP(str):
     new = ""
     prefix = str[0]
-    print(prefix)
     for x in str:
         new = find(prefix, x)
         if new == "":
