@@ -1,2 +1,1 @@
-THIS REPOSITORY CONSISTS OF SOLUTIONS FOR CODING PUZZLES, ALGORITHMS AND DATA STRUCTURES.
-MOST OF THE SOLUTIONS ARE IMPLEMENTED USING PYTHON.
+This repository consists of solutions for coding puzzles, algorithms and data structures. Solutions are in Python.
